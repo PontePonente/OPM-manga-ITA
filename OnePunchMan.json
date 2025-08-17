@@ -5,6 +5,14 @@
   "author": "Yusuke Murata",
   "cover": "https://m.media-amazon.com/images/I/81S1n-i-VBL.jpg",
   "chapters": {
+    "195": {
+      "title": "Eroi",
+      "volume": "",
+      "last_updated": "1694290366",
+      "groups": {
+        "OnePunchManITALIA": "/proxy/api/imgur/chapter/capitolo-195-eroi-pLST0LJ"
+      }
+    },
     "196": {
       "title": "Salire di livello",
       "volume": "",
@@ -14,19 +22,19 @@
       }
     },
     "197": {
-      "title": "Dritto al punto",
-      "volume": "",
-      "last_updated": "1696795120",
-      "groups": {
-        "OnePunchManITALIA": "/proxy/api/imgur/chapter/capitolo-198-dritto-al-punto-TpSxTdX"
-      }
-    },
-    "199": {
       "title": "Mondi di cui non so nulla",
       "volume": "",
-      "last_updated": "1696794767",
+      "last_updated": "1696795880",
       "groups": {
         "OnePunchManITALIA": "/proxy/api/imgur/chapter/capitolo-197-mondi-di-cui-non-so-nulla-YLKsqd1"
+      }
+    },
+    "198": {
+      "title": "Dritto al punto",
+      "volume": "",
+      "last_updated": "1698005529",
+      "groups": {
+        "OnePunchManITALIA": "/proxy/api/imgur/chapter/capitolo-198-dritto-al-punto-TpSxTdX"
       }
     },
     "208": {
